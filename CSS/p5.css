@@ -1,0 +1,17 @@
+div{
+    height: 100px;
+    width: 100px;
+    color: rgb(14, 244, 75);
+    background-image: url("pea.jpg");
+    background-size: cover;
+    position: absolute;
+    right: 0%;
+    
+    
+
+}
+
+body{
+    
+
+}
