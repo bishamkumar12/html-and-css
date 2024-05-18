@@ -1,0 +1,41 @@
+
+.contentDiv{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin-bottom: 22px;
+}
+
+#content{
+    height: 555px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
+
+header{
+    div{
+        background-color: #0f1111;
+        height: 60px;
+        
+    }
+    a{
+        color: white;
+        margin-right: 200px;
+        text-decoration: none;
+    }
+    #amazon{
+        color: #f08804;
+        font-size: 25px;
+    }
+    button{
+        background-color: #f08804;
+        color: white;
+    }
+    
+    margin-bottom: 22px;
+
+}
+
